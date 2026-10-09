@@ -1,0 +1,15 @@
+{
+  "marke": "Ninja",
+  "modell": "SL400EU",
+  "anzeigename": "Ninja Double Stack XL 9,5 L",
+  "korbanzahl": 2,
+  "volumen_l": 9.5,
+  "leistung_w": 2470,
+  "dokumente": [
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung",
+      "beschreibung": "Mehrsprachig (Heftkennung SL400EU_Series_IB_MP_240111_Mv1); Deutsch auf PDF-Seiten 10–17"
+    }
+  ]
+}

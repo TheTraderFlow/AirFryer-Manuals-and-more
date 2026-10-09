@@ -1,0 +1,15 @@
+{
+  "marke": "Ninja",
+  "modell": "AF160EU",
+  "anzeigename": "Ninja Air Fryer MAX 5,2 L",
+  "korbanzahl": 1,
+  "volumen_l": 5.2,
+  "leistung_w": 1750,
+  "dokumente": [
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung",
+      "beschreibung": "Mehrsprachig (Heftkennung AF160EU_IB_MP_190801_MP_v1); Deutsch auf PDF-Seiten 10–17"
+    }
+  ]
+}

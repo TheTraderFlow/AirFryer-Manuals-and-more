@@ -16,26 +16,34 @@ Neue PDF: in den passenden Ordner legen (neuen Ordner für neue Marke/Modell anl
 
 ## Inhalt
 
-Stand: 10.10.2026 – 6 PDF-Dateien, 5 Modelle, 2 Marken.
+Stand: 10.10.2026 – 11 PDF-Dateien, 8 Modelle, 2 Marken.
 
 | Marke | Modell | Dokument | Sprachen | Datei | Herkunft | Abgerufen |
 |---|---|---|---|---|---|---|
 | Ninja | DZ400EU (MAX Dual Zone 9,5 L) | Schnellstart- und Rezeptanleitung | EN, DE, FR | [ninja/dz400eu/schnellstart-rezeptanleitung.pdf](ninja/dz400eu/schnellstart-rezeptanleitung.pdf) | SharkNinja-Supportseite (support.sharkninja.fr, Produkt AF400EU/DZ400EU, „Guides de démarrage rapide“) | 09.10.2026 |
 | Ninja | DZ400EU (MAX Dual Zone 9,5 L) | Gebrauchsanweisung | EN, FR, DE und weitere | [ninja/dz400eu/gebrauchsanweisung.pdf](ninja/dz400eu/gebrauchsanweisung.pdf) | SharkNinja-Supportseite (support.sharkninja.de, Produkt AF400EU/DZ400EU, „Bedienungsanleitungen“) | 09.10.2026 |
 | Ninja | AF400EU (Foodi MAX Dual Zone 9,5 L) | Schnellstart- und Rezeptanleitung | EN, DE, FR | [ninja/af400eu/schnellstart-rezeptanleitung.pdf](ninja/af400eu/schnellstart-rezeptanleitung.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „8263AF400EU-4.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
+| Ninja | AF400EU (Foodi MAX Dual Zone 9,5 L) | Gebrauchsanweisung (deutscher Teil) | DE | [ninja/af400eu/gebrauchsanweisung.pdf](ninja/af400eu/gebrauchsanweisung.pdf) | Händlerseite media.hoeffner.de (Originaldatei „46151277_3-202509090910.pdf“), von Florian heruntergeladen | 10.10.2026 |
 | Ninja | AF300EU (Foodi Dual Zone 7,6 L) | Schnellstartanleitung mit Kochtabellen und Rezepten | DE, FR | [ninja/af300eu/schnellstartanleitung.pdf](ninja/af300eu/schnellstartanleitung.pdf) | Händlerseite shop.computerworks.ch (Originaldatei „DE_AF300_0.pdf“), von Florian heruntergeladen | 10.10.2026 |
 | Ninja | AF140EU (PRO 4,7 L) | Schnellstart- und Rezeptanleitung | EN, DE, FR | [ninja/af140eu/schnellstart-rezeptanleitung.pdf](ninja/af140eu/schnellstart-rezeptanleitung.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „media.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
+| Ninja | AF500EU (Foodi FlexDrawer 10,4 L) | Kurzanleitung mit Kochtabellen und Rezepten | DE | [ninja/af500eu/schnellstart-rezeptanleitung.pdf](ninja/af500eu/schnellstart-rezeptanleitung.pdf) | Händlerseite d.otto.de (Originaldatei „6ce7dace-f349-5d67-8588-4f52695f3d61.pdf“, 134 Seiten). Abgelegt sind nur die Seiten 1–21; der Rest war die mehrsprachige Gebrauchsanweisung | 10.10.2026 |
+| Ninja | AF500EU (Foodi FlexDrawer 10,4 L) | Gebrauchsanweisung (Ausgabe AF500DE) | DE | [ninja/af500eu/gebrauchsanweisung.pdf](ninja/af500eu/gebrauchsanweisung.pdf) | Geizhals-Dateiablage gzhls.at (Originaldatei „9cbfa49bc1ab50e9e73b371dfb7c0cf5f441.pdf“), von Florian heruntergeladen | 10.10.2026 |
+| Ninja | SL400EU (Double Stack XL 9,5 L) | Gebrauchsanweisung | DA, DE, EN, ES, FR, IT, NL, NO, PT, FI, SV | [ninja/sl400eu/gebrauchsanweisung.pdf](ninja/sl400eu/gebrauchsanweisung.pdf) | Händlerseite d.otto.de (Originaldatei „9b91e902-d9b0-5dab-8173-2f513e52376e.pdf“), von Florian heruntergeladen | 10.10.2026 |
+| Ninja | AF160EU (Air Fryer MAX 5,2 L) | Gebrauchsanweisung | DA, DE, EN, ES, FR, IT, NL, NO, FI, SV | [ninja/af160eu/gebrauchsanweisung.pdf](ninja/af160eu/gebrauchsanweisung.pdf) | Geizhals-Dateiablage gzhls.at (Originaldatei „c2c1a6d7d753ac6a175df2e65f9b5a20b690.pdf“), von Florian heruntergeladen | 10.10.2026 |
 | Pampered Chef | Deluxe Air Fryer | Rezeptheft | DE | [pampered-chef/deluxe-air-fryer/rezeptheft.pdf](pampered-chef/deluxe-air-fryer/rezeptheft.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „PDF-Rezeptheft-Deluxe-Air-Fryer.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
 
 ## Prüfstand
 
-Zuletzt geprüft: 10.10.2026, alle 6 Dateien.
+Zuletzt geprüft: 10.10.2026, alle 11 Dateien.
 
 - **Sprache:** Jede Datei enthält einen deutschen Teil. Keine Datei liegt nur in einer Sprache vor, die wir nicht brauchen.
 - **Doppelte Dateien:** Keine. Alle Dateien unterscheiden sich im Inhalt (Prüfsummen verglichen).
 - **Doppelte Hefte je Gerät:** Keine. Pro Modell gibt es jede Dokumentart höchstens einmal.
-- **Überschneidung bei Rezepten:** Die Ninja-Hefte teilen sich Rezepte. Von den 30 Rezepten der DZ400EU stehen 18 auch im AF400EU-Heft, 16 im AF300EU-Heft und 2 im AF140EU-Heft. Die Hefte bleiben trotzdem alle erhalten, weil Kochtabellen und Mengen je Gerät abweichen. Doppelte Rezepte werden beim Einarbeiten in Fritti zusammengeführt.
-- **Noch offen:** Gerätedaten in den `modell.json` (Liter, Körbe, Watt) sind bei AF300EU, AF400EU und AF140EU noch nicht gegen ein Handbuch geprüft; beim Pampered Chef fehlen Volumen und Leistung. Gebrauchsanweisungen gibt es bisher nur zur DZ400EU.
+- **Aussortiert am 10.10.2026:** Beim AF500EU lag die Gebrauchsanweisung doppelt vor, einmal als eigene deutsche Datei und einmal als mehrsprachiger Anhang (Seiten 22–134) der Otto-Datei. Behalten wurde die deutsche Einzeldatei; aus der Otto-Datei sind nur die Seiten 1–21 (Kurzanleitung, Kochtabellen, Rezepte) abgelegt.
+- **Ähnliche Hefte verschiedener Geräte:** Die deutsche Gebrauchsanweisung der AF400EU stimmt zu rund 84 % mit der der DZ400EU überein (Vorgänger und Nachfolger). Beide bleiben, weil sie zu verschiedenen Geräten gehören.
+- **Überschneidung bei Rezepten:** Die Ninja-Hefte teilen sich Rezepte. Von den 30 Rezepten der DZ400EU stehen 18 auch im AF400EU-Heft, 16 im AF300EU-Heft und 2 im AF140EU-Heft. Die Hefte bleiben trotzdem alle erhalten, weil Kochtabellen und Mengen je Gerät abweichen. Doppelte Rezepte werden beim Einarbeiten in Fritti zusammengeführt. Das AF500EU-Heft ist darauf noch nicht geprüft.
+- **Gerätedaten:** Leistung bei AF400EU, AF500EU, SL400EU (je 2470 W) und AF160EU (1750 W) aus den Gebrauchsanweisungen bestätigt. Noch ungeprüft: AF300EU und AF140EU (keine Gebrauchsanweisung vorhanden), Volumen der AF160EU; beim Pampered Chef fehlen Volumen und Leistung.
+- **Es fehlt noch:** Gebrauchsanweisung für AF300EU und AF140EU; Schnellstart-/Rezeptanleitung für SL400EU und AF160EU.
 
 ## Regeln für dieses Repo
 

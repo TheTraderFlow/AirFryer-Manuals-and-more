@@ -1,0 +1,20 @@
+{
+  "marke": "Ninja",
+  "modell": "AF500EU",
+  "anzeigename": "Ninja Foodi FlexDrawer 10,4 L",
+  "korbanzahl": 1,
+  "volumen_l": 10.4,
+  "leistung_w": 2470,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Kurzanleitung mit Kochtabellen und Rezepten",
+      "beschreibung": "Deutsch (Heftkennung AF500DE_IG_QSG_MP_230519_Mv2)"
+    },
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung",
+      "beschreibung": "Deutsch, Ausgabe AF500DE (Heftkennung AF500DE_IB_MP_230519_Mv1)"
+    }
+  ]
+}

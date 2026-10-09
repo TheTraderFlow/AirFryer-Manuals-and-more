@@ -10,6 +10,11 @@
       "datei": "schnellstart-rezeptanleitung.pdf",
       "titel": "Schnellstart- und Rezeptanleitung",
       "beschreibung": "Kochtabellen und Rezepte, Englisch/Deutsch/Französisch (Heftkennung AF400EU_IG_MP_285x210mm_210719_Mv1); Deutsch ab PDF-Seite 7"
+    },
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung",
+      "beschreibung": "Deutscher Teil der Gebrauchsanweisung (Auszug eines Händlers, Heftseiten 34–49)"
     }
   ]
 }
