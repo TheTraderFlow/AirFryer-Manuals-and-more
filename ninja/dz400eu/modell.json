@@ -1,0 +1,12 @@
+{
+  "marke": "Ninja",
+  "modell": "DZ400EU",
+  "anzeigename": "Ninja MAX Dual Zone 9,5 L",
+  "korbanzahl": 2,
+  "volumen_l": 9.5,
+  "leistung_w": 2470,
+  "dokumente": [
+    {"datei": "schnellstart-rezeptanleitung.pdf", "titel": "Schnellstart- und Rezeptanleitung", "beschreibung": "Kochtabellen und Rezepte (Deutsch ab PDF-Seite 16)"},
+    {"datei": "gebrauchsanweisung.pdf", "titel": "Gebrauchsanweisung", "beschreibung": "Bedienung, Sicherheit, Reinigung, Fehlerbehebung (Deutsch ab PDF-Seite 18)"}
+  ]
+}
