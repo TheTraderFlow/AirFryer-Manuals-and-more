@@ -1,0 +1,15 @@
+{
+  "marke": "Pampered Chef",
+  "modell": "Deluxe Air Fryer",
+  "anzeigename": "Pampered Chef Deluxe Air Fryer",
+  "korbanzahl": 1,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "rezeptheft.pdf",
+      "titel": "Rezeptheft",
+      "beschreibung": "15 Rezepte auf Deutsch (Programme Air Fry, Bake, Roast, Rotisserie, Rotate), Stand 2021"
+    }
+  ]
+}

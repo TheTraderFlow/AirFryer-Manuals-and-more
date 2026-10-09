@@ -1,0 +1,15 @@
+{
+  "marke": "Ninja",
+  "modell": "AF300EU",
+  "anzeigename": "Ninja Foodi Dual Zone 7,6 L",
+  "korbanzahl": 2,
+  "volumen_l": 7.6,
+  "leistung_w": 2400,
+  "dokumente": [
+    {
+      "datei": "schnellstartanleitung.pdf",
+      "titel": "Schnellstartanleitung mit Kochtabellen und Rezepten",
+      "beschreibung": "Ausgabe Deutsch/Französisch (Heftkennung AF300EU_IG_QSG_MP_200814_Mv3); Deutsch ab PDF-Seite 2, Rezepte zweisprachig"
+    }
+  ]
+}

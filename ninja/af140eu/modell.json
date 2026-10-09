@@ -1,0 +1,15 @@
+{
+  "marke": "Ninja",
+  "modell": "AF140EU",
+  "anzeigename": "Ninja PRO 4,7 L",
+  "korbanzahl": 1,
+  "volumen_l": 4.7,
+  "leistung_w": 1750,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Schnellstart- und Rezeptanleitung",
+      "beschreibung": "Kochtabellen und 15 Rezepte, Englisch/Deutsch/Französisch (Heftkennung AF140EU_IG_MP_285x210mm_240103_Mv2); Deutsch ab PDF-Seite 5"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "marke": "Ninja",
+  "modell": "AF400EU",
+  "anzeigename": "Ninja Foodi MAX Dual Zone 9,5 L",
+  "korbanzahl": 2,
+  "volumen_l": 9.5,
+  "leistung_w": 2470,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Schnellstart- und Rezeptanleitung",
+      "beschreibung": "Kochtabellen und Rezepte, Englisch/Deutsch/Französisch (Heftkennung AF400EU_IG_MP_285x210mm_210719_Mv1); Deutsch ab PDF-Seite 7"
+    }
+  ]
+}

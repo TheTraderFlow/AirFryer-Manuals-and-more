@@ -20,6 +20,10 @@ Neue PDF: in den passenden Ordner legen (neuen Ordner für neue Marke/Modell anl
 |---|---|---|---|---|---|
 | Ninja | DZ400EU (MAX Dual Zone 9,5 L) | Schnellstart- und Rezeptanleitung | [ninja/dz400eu/schnellstart-rezeptanleitung.pdf](ninja/dz400eu/schnellstart-rezeptanleitung.pdf) | SharkNinja-Supportseite (support.sharkninja.fr, Produkt AF400EU/DZ400EU, „Guides de démarrage rapide“) | 09.10.2026 |
 | Ninja | DZ400EU (MAX Dual Zone 9,5 L) | Gebrauchsanweisung | [ninja/dz400eu/gebrauchsanweisung.pdf](ninja/dz400eu/gebrauchsanweisung.pdf) | SharkNinja-Supportseite (support.sharkninja.de, Produkt AF400EU/DZ400EU, „Bedienungsanleitungen“) | 09.10.2026 |
+| Ninja | AF400EU (Foodi MAX Dual Zone 9,5 L) | Schnellstart- und Rezeptanleitung | [ninja/af400eu/schnellstart-rezeptanleitung.pdf](ninja/af400eu/schnellstart-rezeptanleitung.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „8263AF400EU-4.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
+| Ninja | AF300EU (Foodi Dual Zone 7,6 L) | Schnellstartanleitung mit Kochtabellen und Rezepten (DE/FR) | [ninja/af300eu/schnellstartanleitung.pdf](ninja/af300eu/schnellstartanleitung.pdf) | Händlerseite shop.computerworks.ch (Originaldatei „DE_AF300_0.pdf“), von Florian heruntergeladen | 10.10.2026 |
+| Ninja | AF140EU (PRO 4,7 L) | Schnellstart- und Rezeptanleitung | [ninja/af140eu/schnellstart-rezeptanleitung.pdf](ninja/af140eu/schnellstart-rezeptanleitung.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „media.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
+| Pampered Chef | Deluxe Air Fryer | Rezeptheft (Deutsch) | [pampered-chef/deluxe-air-fryer/rezeptheft.pdf](pampered-chef/deluxe-air-fryer/rezeptheft.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „PDF-Rezeptheft-Deluxe-Air-Fryer.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
 
 ## Direktlinks
 
