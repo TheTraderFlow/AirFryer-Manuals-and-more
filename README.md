@@ -16,7 +16,7 @@ Neue PDF: in den passenden Ordner legen (neuen Ordner für neue Marke/Modell anl
 
 ## Inhalt
 
-Stand: 10.10.2026 – 11 PDF-Dateien, 8 Modelle, 2 Marken.
+Stand: 20.10.2026 – 14 PDF-Dateien, 11 Modelle, 5 Marken.
 
 | Marke | Modell | Dokument | Sprachen | Datei | Herkunft | Abgerufen |
 |---|---|---|---|---|---|---|
@@ -31,10 +31,13 @@ Stand: 10.10.2026 – 11 PDF-Dateien, 8 Modelle, 2 Marken.
 | Ninja | SL400EU (Double Stack XL 9,5 L) | Gebrauchsanweisung | DA, DE, EN, ES, FR, IT, NL, NO, PT, FI, SV | [ninja/sl400eu/gebrauchsanweisung.pdf](ninja/sl400eu/gebrauchsanweisung.pdf) | Händlerseite d.otto.de (Originaldatei „9b91e902-d9b0-5dab-8173-2f513e52376e.pdf“), von Florian heruntergeladen | 10.10.2026 |
 | Ninja | AF160EU (Air Fryer MAX 5,2 L) | Gebrauchsanweisung | DA, DE, EN, ES, FR, IT, NL, NO, FI, SV | [ninja/af160eu/gebrauchsanweisung.pdf](ninja/af160eu/gebrauchsanweisung.pdf) | Geizhals-Dateiablage gzhls.at (Originaldatei „c2c1a6d7d753ac6a175df2e65f9b5a20b690.pdf“), von Florian heruntergeladen | 10.10.2026 |
 | Pampered Chef | Deluxe Air Fryer | Rezeptheft | DE | [pampered-chef/deluxe-air-fryer/rezeptheft.pdf](pampered-chef/deluxe-air-fryer/rezeptheft.pdf) | Von Florian per Google-Suche gefunden (Originaldatei „PDF-Rezeptheft-Deluxe-Air-Fryer.pdf“), Herkunftsseite nicht notiert | 10.10.2026 |
+| Tefal | EY505D (Easy Fry & Grill Deluxe) | Rezeptheft | DE | [tefal/ey505d/rezeptheft.pdf](tefal/ey505d/rezeptheft.pdf) | Herstellerseite tefal.de, Produkt EY505D (Datei auf dam.groupeseb.com, Originaldatei „Easy-Fry-Grill_Rezeptheft.pdf“) | 20.10.2026 |
+| Rommelsbacher | FRH 1500 / FRH 1700 | Rezeptheft | DE | [rommelsbacher/frh1500/rezeptheft.pdf](rommelsbacher/frh1500/rezeptheft.pdf) | Herstellerseite rommelsbacher.de → Service → Downloads (Originaldatei „ROMMELSBACHER-Rezeptheft-Heissluftfritteusen.pdf“) | 20.10.2026 |
+| Caso | AirFry 6.0 (3185), DuoChef (3186), DuoTower (3189), PizzaChef (3191) | Kochbuch | DE, EN | [caso/airfry-6-0/kochbuch.pdf](caso/airfry-6-0/kochbuch.pdf) | Herstellerseite caso-design.de, Produkt AirFry 6.0 (Originaldatei „202607_kochbuch_af_a5_screen.pdf“) | 20.10.2026 |
 
 ## Prüfstand
 
-Zuletzt geprüft: 10.10.2026, alle 11 Dateien.
+Zuletzt geprüft: 20.10.2026, alle 14 Dateien.
 
 - **Sprache:** Jede Datei enthält einen deutschen Teil. Keine Datei liegt nur in einer Sprache vor, die wir nicht brauchen.
 - **Doppelte Dateien:** Keine. Alle Dateien unterscheiden sich im Inhalt (Prüfsummen verglichen).
@@ -43,6 +46,7 @@ Zuletzt geprüft: 10.10.2026, alle 11 Dateien.
 - **Ähnliche Hefte verschiedener Geräte:** Die deutsche Gebrauchsanweisung der AF400EU stimmt zu rund 84 % mit der der DZ400EU überein (Vorgänger und Nachfolger). Beide bleiben, weil sie zu verschiedenen Geräten gehören.
 - **Überschneidung bei Rezepten:** Die Ninja-Hefte teilen sich Rezepte. Von den 30 Rezepten der DZ400EU stehen 18 auch im AF400EU-Heft, 16 im AF300EU-Heft und 2 im AF140EU-Heft. Die Hefte bleiben trotzdem alle erhalten, weil Kochtabellen und Mengen je Gerät abweichen. Doppelte Rezepte werden beim Einarbeiten in Fritti zusammengeführt. Das AF500EU-Heft ist darauf noch nicht geprüft.
 - **Gerätedaten:** Leistung bei AF400EU, AF500EU, SL400EU (je 2470 W) und AF160EU (1750 W) aus den Gebrauchsanweisungen bestätigt. Noch ungeprüft: AF300EU und AF140EU (keine Gebrauchsanweisung vorhanden), Volumen der AF160EU; beim Pampered Chef fehlen Volumen und Leistung.
+- **Neu am 20.10.2026 (noch nicht in Fritti eingearbeitet):** Rezepthefte von Tefal (EY505D), Rommelsbacher (FRH 1500/1700) und Caso (AirFry-Reihe), jeweils direkt von der Herstellerseite. Das Tefal-Heft nennt selbst kein Modell; die Zuordnung zum EY505D stammt von der Tefal-Produktseite. Das Rommelsbacher- und das Caso-Heft gelten für mehrere Geräte; abgelegt sind sie unter dem ersten genannten Modell. Ob die Hefte Kochtabellen enthalten und für welche Geräte in Fritti Einträge entstehen, wird beim Einarbeiten geklärt. Gerätedaten (Körbe, Volumen, Leistung) fehlen noch.
 - **Es fehlt noch:** Gebrauchsanweisung für AF300EU und AF140EU; Schnellstart-/Rezeptanleitung für SL400EU und AF160EU.
 
 ## Regeln für dieses Repo
