@@ -8,9 +8,9 @@
   "dokumente": [
     {
       "datei": "gebrauchsanweisung.pdf",
-      "titel": "Bedienungsanleitung mit empfohlenen Einstellungen",
-      "art": "rezeptheft",
-      "beschreibung": "Bedienungsanleitung mit empfohlenen Einstellungen, mehrsprachig mit DE; Herkunft: zwilling.com/de (abgerufen am 20.10.2026)"
+      "titel": "Bedienungsanleitung",
+      "art": "gebrauchsanweisung",
+      "beschreibung": "Bedienungsanleitung, mehrsprachig mit DE; ohne Garzeiten-Tabelle und ohne Rezepte (geprüft 21.10.2026)"
     }
   ]
 }
