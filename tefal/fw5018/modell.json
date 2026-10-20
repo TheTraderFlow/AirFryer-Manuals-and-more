@@ -1,0 +1,16 @@
+{
+  "marke": "Tefal",
+  "modell": "FW5018",
+  "anzeigename": "Tefal Easy Fry Oven & Grill",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "rezeptbuch.pdf",
+      "titel": "Rezeptbuch",
+      "art": "rezeptheft",
+      "beschreibung": "Rezeptbuch, DE; Herkunft: tefal.de, Produkt FW5018 (abgerufen am 20.10.2026)"
+    }
+  ]
+}

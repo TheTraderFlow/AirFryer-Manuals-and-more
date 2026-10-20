@@ -10,6 +10,12 @@
       "datei": "gebrauchsanweisung.pdf",
       "titel": "Gebrauchsanweisung",
       "beschreibung": "Mehrsprachig (Heftkennung AF160EU_IB_MP_190801_MP_v1); Deutsch auf PDF-Seiten 10–17"
+    },
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Schnellstartanleitung mit Rezepten",
+      "art": "rezeptheft",
+      "beschreibung": "Schnellstartanleitung mit Rezepten, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
     }
   ]
 }

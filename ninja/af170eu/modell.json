@@ -1,0 +1,16 @@
+{
+  "marke": "Ninja",
+  "modell": "AF170EU",
+  "anzeigename": "Ninja Heißluftfritteuse MAX PRO",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Inspirationsheft mit Kochtabellen und Rezepten",
+      "art": "rezeptheft",
+      "beschreibung": "Inspirationsheft mit Kochtabellen und Rezepten, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
+    }
+  ]
+}

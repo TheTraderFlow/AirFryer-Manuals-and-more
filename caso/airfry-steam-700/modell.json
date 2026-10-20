@@ -1,0 +1,16 @@
+{
+  "marke": "Caso",
+  "modell": "AirFry & Steam 700",
+  "anzeigename": "Caso AirFry & Steam 700",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "kochbuch.pdf",
+      "titel": "AirFry & Steam Kochbuch",
+      "art": "rezeptheft",
+      "beschreibung": "AirFry & Steam Kochbuch, DE, EN; Herkunft: caso-design.de, Produkt AirFry & Steam 700 (abgerufen am 20.10.2026)"
+    }
+  ]
+}

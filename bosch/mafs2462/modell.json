@@ -1,0 +1,16 @@
+{
+  "marke": "Bosch",
+  "modell": "MAFS2462",
+  "anzeigename": "Bosch Airfryer (MAFS2462)",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanleitung mit Anwendungsbeispielen",
+      "art": "rezeptheft",
+      "beschreibung": "Gebrauchsanleitung mit Anwendungsbeispielen, mehrsprachig mit DE; Herkunft: bosch-home.com, Produkt MAFS2462B (abgerufen am 20.10.2026)"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "marke": "Silvercrest",
+  "modell": "SHFD 2000 D2",
+  "anzeigename": "Silvercrest Heißluftfritteuse SHFD 2000 D2",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Bedienungsanleitung mit Rezeptheft",
+      "art": "rezeptheft",
+      "beschreibung": "Bedienungsanleitung mit Rezeptheft, DE (mehrsprachige Ausgabe); Herkunft: lidl.de Produktseite (manuals.sit-connect.com) (abgerufen am 20.10.2026)"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "marke": "Ninja",
+  "modell": "ON400DE",
+  "anzeigename": "Ninja Speedi Rapid Cooking System & Heißluftfritteuse",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Kurzanleitung und Rezeptbuch",
+      "art": "rezeptheft",
+      "beschreibung": "Kurzanleitung und Rezeptbuch, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
+    }
+  ]
+}

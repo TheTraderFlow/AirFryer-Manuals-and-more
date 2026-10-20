@@ -1,0 +1,16 @@
+{
+  "marke": "Ninja",
+  "modell": "SL300EU",
+  "anzeigename": "Ninja Double Stack",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Schnellstart- und Rezeptanleitung",
+      "art": "rezeptheft",
+      "beschreibung": "Schnellstart- und Rezeptanleitung, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
+    }
+  ]
+}

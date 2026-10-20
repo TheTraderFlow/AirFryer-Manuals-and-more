@@ -10,6 +10,12 @@
       "datei": "gebrauchsanweisung.pdf",
       "titel": "Gebrauchsanweisung",
       "beschreibung": "Mehrsprachig (Heftkennung SL400EU_Series_IB_MP_240111_Mv1); Deutsch auf PDF-Seiten 10–17"
+    },
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Schnellstart- und Rezeptanleitung",
+      "art": "rezeptheft",
+      "beschreibung": "Schnellstart- und Rezeptanleitung, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
     }
   ]
 }

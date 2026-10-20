@@ -1,0 +1,16 @@
+{
+  "marke": "Tchibo",
+  "modell": "201363",
+  "anzeigename": "Tchibo Heißluft-Fritteuse",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung mit Garzeiten-Tabelle",
+      "art": "rezeptheft",
+      "beschreibung": "Gebrauchsanweisung mit Garzeiten-Tabelle, DE; Herkunft: tchibo.de, Produkt Heißluft-Fritteuse (abgerufen am 20.10.2026)"
+    }
+  ]
+}

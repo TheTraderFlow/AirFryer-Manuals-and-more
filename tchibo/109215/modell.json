@@ -1,0 +1,16 @@
+{
+  "marke": "Tchibo",
+  "modell": "109215",
+  "anzeigename": "Tchibo Digitale Heißluft-Fritteuse (2020)",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung",
+      "art": "rezeptheft",
+      "beschreibung": "Gebrauchsanweisung, DE; Herkunft: tchibo.de/anleitungen (abgerufen am 20.10.2026)"
+    }
+  ]
+}

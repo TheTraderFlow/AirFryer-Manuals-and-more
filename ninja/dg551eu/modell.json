@@ -1,0 +1,16 @@
+{
+  "marke": "Ninja",
+  "modell": "DG551EU",
+  "anzeigename": "Ninja Foodi MAX Grill & Heißluftfritteuse",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Schnellstartanleitung mit Rezepten",
+      "art": "rezeptheft",
+      "beschreibung": "Schnellstartanleitung mit Rezepten, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
+    }
+  ]
+}

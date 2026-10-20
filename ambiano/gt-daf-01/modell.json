@@ -1,0 +1,16 @@
+{
+  "marke": "Ambiano",
+  "modell": "GT-DAF-01",
+  "anzeigename": "Ambiano Doppelkorb-Heißluftfritteuse GT-DAF-01",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "rezeptbuch.pdf",
+      "titel": "Rezeptbuch",
+      "art": "rezeptheft",
+      "beschreibung": "Rezeptbuch, DE; Herkunft: gt-support.de (Globaltronics, Aldi-Eigenmarke) (abgerufen am 20.10.2026)"
+    }
+  ]
+}

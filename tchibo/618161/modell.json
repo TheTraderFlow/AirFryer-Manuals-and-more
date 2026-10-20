@@ -1,0 +1,22 @@
+{
+  "marke": "Tchibo",
+  "modell": "618161",
+  "anzeigename": "Tchibo Digitale Heißluft-Fritteuse",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "rezeptheft.pdf",
+      "titel": "Rezepte",
+      "art": "rezeptheft",
+      "beschreibung": "Rezepte, DE; Herkunft: tchibo.de/anleitungen (abgerufen am 20.10.2026)"
+    },
+    {
+      "datei": "gebrauchsanweisung.pdf",
+      "titel": "Gebrauchsanweisung",
+      "art": "gebrauchsanweisung",
+      "beschreibung": "Gebrauchsanweisung, DE, weitere; Herkunft: tchibo.de/anleitungen (abgerufen am 20.10.2026)"
+    }
+  ]
+}

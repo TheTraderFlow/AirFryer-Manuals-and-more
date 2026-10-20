@@ -1,0 +1,16 @@
+{
+  "marke": "Sage",
+  "modell": "SMO870",
+  "anzeigename": "Sage the Combi Wave 3 in 1",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "rezeptkarten.pdf",
+      "titel": "Rezeptkarten",
+      "art": "rezeptheft",
+      "beschreibung": "Rezeptkarten, DE; Herkunft: sageappliances.com/de-de, Produkt BMO870 (abgerufen am 20.10.2026)"
+    }
+  ]
+}

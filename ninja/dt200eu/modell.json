@@ -1,0 +1,16 @@
+{
+  "marke": "Ninja",
+  "modell": "DT200EU",
+  "anzeigename": "Ninja Foodi 10-in-1 XL Multifunktionsofen",
+  "korbanzahl": null,
+  "volumen_l": null,
+  "leistung_w": null,
+  "dokumente": [
+    {
+      "datei": "schnellstart-rezeptanleitung.pdf",
+      "titel": "Inspirationsheft mit Rezepten",
+      "art": "rezeptheft",
+      "beschreibung": "Inspirationsheft mit Rezepten, mehrsprachig mit DE; Herkunft: SharkNinja-Supportseite support.sharkninja.de (abgerufen am 20.10.2026)"
+    }
+  ]
+}
