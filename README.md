@@ -16,7 +16,7 @@ Neue PDF: in den passenden Ordner legen (neuen Ordner für neue Marke/Modell anl
 
 ## Inhalt
 
-Stand: 20.10.2026 – 74 PDF-Dateien, 58 Modelle, 15 Marken.
+Stand: 20.10.2026 – 73 PDF-Dateien, 57 Modelle, 15 Marken.
 
 | Marke | Modell | Dokument | Sprachen | Datei | Herkunft | Abgerufen |
 |---|---|---|---|---|---|---|
@@ -61,7 +61,6 @@ Stand: 20.10.2026 – 74 PDF-Dateien, 58 Modelle, 15 Marken.
 | Midea | Midea Air Fryer MF-CY75A2 | Bedienungsanleitung | DE | [midea/mf-cy75a2/gebrauchsanweisung.pdf](midea/mf-cy75a2/gebrauchsanweisung.pdf) | midea.com/de | 20.10.2026 |
 | Zwilling | Zwilling Heißluftfritteuse 4 l | Bedienungsanleitung mit empfohlenen Einstellungen | mehrsprachig mit DE | [zwilling/36450/gebrauchsanweisung.pdf](zwilling/36450/gebrauchsanweisung.pdf) | zwilling.com/de | 20.10.2026 |
 | Silvercrest | Silvercrest Heißluftfritteuse SHFD 1000 A1 | Bedienungsanleitung mit Rezeptheft | DE (mehrsprachige Ausgabe) | [silvercrest/shfd1000a1/gebrauchsanweisung.pdf](silvercrest/shfd1000a1/gebrauchsanweisung.pdf) | lidl.de Produktseite (manuals.sit-connect.com) | 20.10.2026 |
-| Silvercrest | Silvercrest Heißluftfritteuse Digital 4,7 l | Bedienungsanleitung mit Rezeptheft | DE (mehrsprachige Ausgabe) | [silvercrest/mint100408836/gebrauchsanweisung.pdf](silvercrest/mint100408836/gebrauchsanweisung.pdf) | lidl.de Produktseite (manuals.sit-connect.com) | 20.10.2026 |
 | Silvercrest | Silvercrest Heißluftfritteuse SHFD 1400 C1 | Bedienungsanleitung mit Rezeptheft | DE (mehrsprachige Ausgabe) | [silvercrest/shfd1400c1/gebrauchsanweisung.pdf](silvercrest/shfd1400c1/gebrauchsanweisung.pdf) | lidl.de Produktseite (manuals.sit-connect.com) | 20.10.2026 |
 | Silvercrest | Silvercrest Heißluftfritteuse SHFD 2000 D2 | Bedienungsanleitung mit Rezeptheft | DE (mehrsprachige Ausgabe) | [silvercrest/shfd2000d2/gebrauchsanweisung.pdf](silvercrest/shfd2000d2/gebrauchsanweisung.pdf) | lidl.de Produktseite (manuals.sit-connect.com) | 20.10.2026 |
 | Silvercrest | Silvercrest Tower Air Fryer SHFDV 2470 A1 | Bedienungsanleitung mit Rezeptheft | DE (mehrsprachige Ausgabe) | [silvercrest/shfdv2470a1/gebrauchsanweisung.pdf](silvercrest/shfdv2470a1/gebrauchsanweisung.pdf) | lidl.de Produktseite (manuals.sit-connect.com) | 20.10.2026 |
@@ -97,7 +96,7 @@ Stand: 20.10.2026 – 74 PDF-Dateien, 58 Modelle, 15 Marken.
 
 ## Prüfstand
 
-Zuletzt geprüft: 20.10.2026, alle 74 Dateien.
+Zuletzt geprüft: 20.10.2026, alle 73 Dateien.
 
 - **Sprache:** Jede Datei enthält einen deutschen Teil. Keine Datei liegt nur in einer Sprache vor, die wir nicht brauchen.
 - **Doppelte Dateien:** Keine. Alle Dateien unterscheiden sich im Inhalt (Prüfsummen verglichen).
@@ -107,7 +106,7 @@ Zuletzt geprüft: 20.10.2026, alle 74 Dateien.
 - **Überschneidung bei Rezepten:** Die Ninja-Hefte teilen sich Rezepte. Von den 30 Rezepten der DZ400EU stehen 18 auch im AF400EU-Heft, 16 im AF300EU-Heft und 2 im AF140EU-Heft. Die Hefte bleiben trotzdem alle erhalten, weil Kochtabellen und Mengen je Gerät abweichen. Doppelte Rezepte werden beim Einarbeiten in Fritti zusammengeführt. Das AF500EU-Heft ist darauf noch nicht geprüft.
 - **Gerätedaten:** Leistung bei AF400EU, AF500EU, SL400EU (je 2470 W) und AF160EU (1750 W) aus den Gebrauchsanweisungen bestätigt. Noch ungeprüft: AF300EU und AF140EU (keine Gebrauchsanweisung vorhanden), Volumen der AF160EU; beim Pampered Chef fehlen Volumen und Leistung.
 - **Neu am 20.10.2026 (noch nicht in Fritti eingearbeitet):** Rezepthefte von Tefal (EY505D), Rommelsbacher (FRH 1500/1700) und Caso (AirFry-Reihe), jeweils direkt von der Herstellerseite. Das Tefal-Heft nennt selbst kein Modell; die Zuordnung zum EY505D stammt von der Tefal-Produktseite. Das Rommelsbacher- und das Caso-Heft gelten für mehrere Geräte; abgelegt sind sie unter dem ersten genannten Modell. Ob die Hefte Kochtabellen enthalten und für welche Geräte in Fritti Einträge entstehen, wird beim Einarbeiten geklärt. Gerätedaten (Körbe, Volumen, Leistung) fehlen noch.
-- **Zweite Ladung am 20.10.2026:** 60 weitere Dokumente von Herstellerseiten (Ninja-Supportseite, Caso, Gastroback, Globaltronics/Ambiano, Tchibo, Sage, Tefal, Bosch, Klarstein, Silvercrest/Lidl, Midea, Zwilling). Alle enthalten einen deutschen Teil (geprüft am Seitentext). Bei Silvercrest ist jeweils die Ausgabe „_1“ abgelegt (deutscher Teil mit Rezeptheft); die mehrsprachige Ausgabe „_OS“ enthält dieselben Inhalte und fehlt bewusst. Die drei Ambiano-Rezeptbücher sind zu über 99 % gleich, ebenso Ninja SL300EU und SL400EU; sie bleiben, weil sie zu verschiedenen Geräten gehören. Nicht ladbar: Grundig FRY 6840 Kochbuch (Server sperrt automatische Abrufe).
+- **Zweite Ladung am 20.10.2026:** 60 weitere Dokumente von Herstellerseiten (Ninja-Supportseite, Caso, Gastroback, Globaltronics/Ambiano, Tchibo, Sage, Tefal, Bosch, Klarstein, Silvercrest/Lidl, Midea, Zwilling). Alle enthalten einen deutschen Teil (geprüft am Seitentext). Bei Silvercrest ist jeweils die Ausgabe „_1“ abgelegt (deutscher Teil mit Rezeptheft); die mehrsprachige Ausgabe „_OS“ enthält dieselben Inhalte und fehlt bewusst. Die drei Ambiano-Rezeptbücher sind zu über 99 % gleich, ebenso Ninja SL300EU und SL400EU; sie bleiben, weil sie zu verschiedenen Geräten gehören. Die Datei für Silvercrest „Heißluftfritteuse Digital 4,7 l“ (Lidl 100408836) war Byte für Byte gleich der SHFD 2000 D2 und ist deshalb nur dort abgelegt. Nicht ladbar: Grundig FRY 6840 Kochbuch (Server sperrt automatische Abrufe).
 - **Es fehlt noch:** Gebrauchsanweisung für AF300EU und AF140EU; Schnellstart-/Rezeptanleitung für SL400EU und AF160EU.
 
 ## Regeln für dieses Repo
